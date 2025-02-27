@@ -5,7 +5,7 @@ A quantum random number generator based on Qiskit and other services that provid
 ## Installation
 
 ```sh
-pip install git+https://github.com/yourusername/qrandom.git
+pip install git+https://github.com/BeaverMLQPHW/QRandom.git
 ```
 ## Usage
 ```python
@@ -27,6 +27,6 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/qrandom.git
+git remote add origin https://github.com/BeaverMLQPHW/QRandom.git
 git push -u origin main
 ```
